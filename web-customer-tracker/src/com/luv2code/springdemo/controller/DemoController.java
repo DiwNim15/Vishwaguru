@@ -6,4 +6,6 @@ import org.springframework.stereotype.Controller;
 public class DemoController {
 
 	private String varString;
+
+	private String varString2;
 }
